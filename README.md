@@ -21,6 +21,17 @@ Average image dimensions: Width: 274.92, Height: 260.27
 6. Matplotlib
 7. Pandas
 
+# Model
+The code used in this project includes the following sections:
+1. Unzipping the dataset
+2. Importing required libraries
+3. Defining folder names for different diseases
+4. Setting dataset path and creating ImageDataGenerator for data augmentation
+5. Data exploration, including counting images per class, displaying sample images, and computing average dimensions
+5. Building and training the CNN model
+6. Evaluating the CNN model
+7. Flattening images, converting to grayscale, and splitting the dataset for traditional machine learning models
+8. Training and evaluating traditional machine learning models (SVM, KNN, and Random Forest)
 
 # Results
 1. Improved CNN Model
