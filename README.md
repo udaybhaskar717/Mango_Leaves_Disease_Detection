@@ -27,7 +27,9 @@ Average image dimensions: Width: 274.92, Height: 260.27
   Test accuracy: 97.5%
 2. Traditional Machine Learning Models
   SVM: Accuracy: 0.4672, Precision: 0.4764, Recall: 0.4672, F1-score: 0.4635
+  
   KNN: Accuracy: 0.3344, Precision: 0.4100, Recall: 0.3344, F1-score: 0.3054
+  
   Random Forest: Accuracy: 0.6219, Precision: 0.6247, Recall: 0.6219, F1-score: 0.6214
   
 # Contributing
